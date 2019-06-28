@@ -1,0 +1,6 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Prefer Manually Triggered Builds
+
+    Plugin that reorders the build queue so that manually triggered builds are executed before automatically triggered builds.
+</div>
